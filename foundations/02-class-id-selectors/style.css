@@ -1,0 +1,22 @@
+body {
+  font-family: cursive;
+}
+
+.odd-style {
+  background-color: rgb(238, 150, 150);
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.large-font {
+  font-size: 24px;
+}
+
+#second-el {
+  color: blue;
+  font-size: 36px;
+}
+
+#fourth-el {
+  background-color: rgb(145, 234, 145);
+  font-weight: 700;
+}
